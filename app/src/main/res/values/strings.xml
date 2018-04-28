@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlbumByTime</string>
+    <string name="hint_today">today</string>
+    <string name="hint_yesterday">yesterday</string>
+    <string name="persission_hint_read_image">需要读取你手机的照片的权限</string>
+
+</resources>
